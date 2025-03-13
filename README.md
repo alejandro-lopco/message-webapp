@@ -6,4 +6,4 @@ Dispone de la utilización de herramientas IaC como Terraform y el empaquetado d
 -   El empaquetado de la aplicación en un contenedor
 ### Requisitos
 -   Terraform
--   Docker Engineg
+-   Docker Engine
